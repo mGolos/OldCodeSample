@@ -1,0 +1,4 @@
+* [evaCure](https://github.com/mGolos/OldCodeSamples/tree/master/Simulator/evaCure) is the simulator I made when I started to learn python and to run my model. It had a GUI a the beginning ([here](https://raw.githubusercontent.com/mGolos/OldCodeSamples/master/Simulator/evaCure/oldGUI.png)) but I discovered Jupyter. I can't put my hands on the notebooks using interactive panels instead.  
+* The [tools](https://github.com/mGolos/OldCodeSamples/tree/master/Simulator/Tools) were made with the increasing need of functions and not really well structured.
+* [This note](https://github.com/mGolos/OldCodeSamples/blob/master/Simulator/%5Beva%5D_3NodesMultistability.ipynb) will run with python 2.7.
+* The two others ([1](https://github.com/mGolos/OldCodeSamples/blob/master/Simulator/%5Beva%5D_FCD_UsingConnectome.ipynb), [2](https://github.com/mGolos/OldCodeSamples/blob/master/Simulator/%5Beva%5D_HopfielModelUsingConnectome.ipynb)) required files I don't have anymore.
